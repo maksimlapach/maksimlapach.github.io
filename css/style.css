@@ -810,7 +810,7 @@ nav {
     .subheader_btn {
       width: 120px;
       height: 22px;
-      font-size: 10px;
+      font-size: 9px;
       margin-top: 9px; }
       .subheader_btn:hover {
         background: -webkit-gradient(linear, left bottom, left top, from(#1EACC7), to(#4CE2FF));
