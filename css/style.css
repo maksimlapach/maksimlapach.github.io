@@ -713,7 +713,7 @@ nav {
     text-align: center; }
   .subheader_btn {
     display: block;
-    font-size: 14px;
+    font-size: 15px;
     width: 200px;
     height: 35px;
     margin: 0 auto;
@@ -808,7 +808,7 @@ nav {
       text-transform: uppercase;
       margin-top: 11px; }
     .subheader_btn {
-      width: 110px;
+      width: 120px;
       height: 22px;
       font-size: 10px;
       margin-top: 9px; }
